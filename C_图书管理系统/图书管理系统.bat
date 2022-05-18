@@ -1,0 +1,1 @@
+@"D:\AhaCpp\resources\core\bin\ConsolePauser.exe" "D:\AhaCpp\resources\code\图书管理系统.exe"
